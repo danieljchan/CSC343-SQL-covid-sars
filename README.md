@@ -1,4 +1,4 @@
-# CSC343-SQL-covid-sars
+# Covid_SARS
 Research project from University of Toronto course Introduction to Databases CSC343.
 
 We use SQL and online databases to answer the following questions:
